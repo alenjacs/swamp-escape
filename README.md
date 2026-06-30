@@ -231,6 +231,6 @@ Main systems are organized across the project files, including:
 
 ## Citations
 
-- COMP 4303 course lecture notes
+
 - "Minecraft" font by Craftron Gaming, downloaded from DaFont: https://www.dafont.com/minecraft.font
 - Any code adapted from COMP 4303 in-class examples was modified and used into this project
